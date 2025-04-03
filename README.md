@@ -8,8 +8,8 @@ I believe I have a moral obligation to create things that empower and liberate o
 
 ## Projects
 
-The main project taking up a lot of my time now is [Pothole](https://github.com/penguinite/pothole) although I take some time off every now and then to avoid getting burnt out.
+The main project taking up a lot of my time now is [Onbox](https://github.com/penguinite/onbox) although I take some time off every now and then to avoid getting burnt out.
 
 I also sometimes work on my older projects, polish them up a bit and fix any buges if I do happen to find them. 
 
-I have given up entirely on [nimforum-re](https://github.com/penguinite/nimforum-re.git) because I think Pothole will be able to replace it, and at most, a MastoAPI -> Nimforum frontend/client is all that will be needed to bridge the gaps
+I have given up entirely on [nimforum-re](https://github.com/penguinite/nimforum-re.git) because I think Onbox will be able to replace it, and at most, a MastoAPI -> Nimforum frontend/client is all that will be needed to bridge the gaps
